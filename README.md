@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Selotip7&style=flat-square&color=2D3748&label=Profile+Views)
+
 
 </div>
 
