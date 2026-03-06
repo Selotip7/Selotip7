@@ -99,8 +99,8 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ### 🔹 [SISTEM KRS SEDERHANA](https://github.com/Selotip7/SISTEM_KRS_SEDERHANA-)
 > Sistem pemilihan KRS sederhana
 
-- ✅ Playable langsung di browser
-- ✅ Vanilla JavaScript tanpa framework
+- ✅ Menangani CRUD KRS
+- ✅ Vanilla PHP tanpa framework
 - 🛠 `PHP` `HTML` `CSS` `TailWInd`
 
 ---
