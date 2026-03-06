@@ -78,12 +78,11 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 ## 🚀 Featured Projects
 
-### 🔹 [Simple Cashier](https://github.com/Selotip7/Simple_Cashier)
-> Aplikasi kasir sederhana untuk mengelola transaksi penjualan
+### 🔹 [RestAPI SISTEM PENGADUAN MASYARAKAT](https://github.com/Selotip7/RestAPI_SISTEM-PENGADUAN-MASYARAKAT)
+> Pembuatan RestAPI untul SISTEM PENGADUAN MASYARAKAT
 
-- ✅ Manajemen produk & transaksi
-- ✅ Kalkulasi total & kembalian otomatis
-- 🛠 `Python`
+- ✅ CRUD Pengaduan 
+- 🛠 `Laravel`
 
 ---
 
