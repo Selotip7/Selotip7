@@ -9,9 +9,9 @@ Tampilkan Gambar
 </div>
 
 👨‍💻 About Me
-yamlname       : "Your Name"
+yamlname       : "Muhammad Akhyar Fath Khairullah Hamri"
 role       : "Backend Developer"
-location   : "Indonesia 🇮🇩"
+location   : "Yogyakarta, Indonesia 🇮🇩"
 focus      : "Building clean, scalable, and maintainable server-side applications"
 currently  : "Open to work & collaboration"
 I'm a passionate Backend Developer who loves crafting robust APIs and designing efficient database architectures. I enjoy solving complex problems on the server side and building systems that scale.
@@ -19,7 +19,7 @@ I'm a passionate Backend Developer who loves crafting robust APIs and designing 
 🔭 Currently working on REST API & Web Applications
 🌱 Always learning new backend technologies
 💬 Ask me about Express.js, Laravel, REST API, Database Design
-📫 Reach me at: your.email@example.com
+📫 Reach me at: akhyarMuhammad854@gmail.com
 
 
 🛠️ Tech Stack
@@ -46,9 +46,9 @@ Tampilkan Gambar
 
 📊 GitHub Statistics
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=2D3748&icon_color=4A90D9&text_color=4A5568&bg_color=ffffff&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Selotip7&show_icons=true&theme=default&hide_border=true&title_color=2D3748&icon_color=4A90D9&text_color=4A5568&bg_color=ffffff&count_private=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&title_color=2D3748&text_color=4A5568&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selotip7&layout=compact&theme=default&hide_border=true&title_color=2D3748&text_color=4A5568&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true&ring=4A90D9&fire=E05252&currStreakLabel=2D3748&sideLabels=2D3748&dates=718096" alt="GitHub Streak"/>
 </div>
