@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/169565240?v=4" width="120" style="border-radius:50%" alt="avatar"/>
+<!-- <img src="https://avatars.githubusercontent.com/u/169565240?v=4" width="120" style="border-radius:50%" alt="avatar"/> -->
 
 <br/>
 
