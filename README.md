@@ -30,7 +30,7 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 - 🔭 Currently working on **REST API & Web Applications**
 - 🌱 Always learning new backend technologies
 - 💬 Ask me about **Express.js, Laravel, REST API, Database Design**
-- 📫 Reach me at: **akhyarmuhammad854@gmail.com*
+- 📫 Reach me at: **akhyarmuhammad854@gmail.com**
 
 ---
 
