@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/Selotip7" width="120" style="border-radius:50%" alt="avatar"/>
+<img src="https://avatars.githubusercontent.com/u/169565240?v=4" width="120" style="border-radius:50%" alt="avatar"/>
 
 <br/>
 
@@ -41,6 +41,7 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -68,7 +69,7 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Selotip7&show_icons=true&theme=default&hide_border=true&title_color=2D3748&icon_color=4A90D9&text_color=4A5568&bg_color=ffffff&count_private=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&title_color=2D3748&text_color=4A5568&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selotip7&layout=compact&theme=default&hide_border=true&title_color=2D3748&text_color=4A5568&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -80,32 +81,48 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/yourusername/project1)
-> REST API for [description] — built with **Express.js + Node.js**
+### 🔹 [Simple Cashier](https://github.com/Selotip7/Simple_Cashier)
+> Aplikasi kasir sederhana untuk mengelola transaksi penjualan
 
-- ✅ JWT Authentication & Authorization
-- ✅ MVC Architecture
-- ✅ MySQL / MongoDB Integration
-- 🛠 `Node.js` `Express.js` `MySQL` `JWT`
-
----
-
-### 🔹 [Project Name 2](https://github.com/yourusername/project2)
-> Web Application for [description] — built with **Laravel**
-
-- ✅ Full CRUD with Eloquent ORM
-- ✅ Role-based Access Control
-- ✅ RESTful API with Laravel Sanctum
-- 🛠 `Laravel` `PHP` `MySQL` `Blade`
+- ✅ Manajemen produk & transaksi
+- ✅ Kalkulasi total & kembalian otomatis
+- 🛠 `Python`
 
 ---
 
-### 🔹 [Project Name 3](https://github.com/yourusername/project3)
-> [Description of project] — built with **HTML, CSS, JavaScript**
+### 🔹 [Java Calories Count](https://github.com/Selotip7/Java_calories_count)
+> Aplikasi penghitung kalori harian
 
-- ✅ Responsive Design
-- ✅ Vanilla JavaScript interaction
-- 🛠 `HTML` `CSS` `JavaScript`
+- ✅ Input makanan & kalkulasi kalori
+- ✅ Tracking konsumsi harian
+- 🛠 `JavaScript`
+
+---
+
+### 🔹 [Game Asal Jadi](https://github.com/Selotip7/Game-_asal_jadi)
+> Mini game interaktif berbasis browser
+
+- ✅ Playable langsung di browser
+- ✅ Vanilla JavaScript tanpa framework
+- 🛠 `JavaScript` `HTML` `CSS`
+
+---
+
+### 🔹 [Luhn Algorithm](https://github.com/Selotip7/luhn_algorithm)
+> Implementasi algoritma Luhn untuk validasi nomor kartu kredit
+
+- ✅ Validasi digit kartu kredit
+- ✅ Implementasi algoritma klasik dari scratch
+- 🛠 `Python`
+
+---
+
+### 🔹 [Chiper](https://github.com/Selotip7/chiper)
+> Program enkripsi & dekripsi teks menggunakan cipher klasik
+
+- ✅ Caesar / Vigenere cipher
+- ✅ Input teks & kunci yang fleksibel
+- 🛠 `Python`
 
 ---
 
