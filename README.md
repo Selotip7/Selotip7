@@ -27,14 +27,14 @@ currently  : "Open to work & collaboration"
 
 I'm a passionate **Backend Developer** who loves crafting robust APIs and designing efficient database architectures. I enjoy solving complex problems on the server side and building systems that scale.
 
-- 🔭 Currently working on **REST API & Web Applications**
-- 🌱 Always learning new backend technologies
-- 💬 Ask me about **Express.js, Laravel, REST API, Database Design**
-- 📫 Reach me at: **akhyarmuhammad854@gmail.com**
+- Currently working on **REST API & Web Applications**
+- Always learning new backend technologies
+- Ask me about **Express.js, Laravel, REST API, Database Design**
+- Reach me at: **akhyarmuhammad854@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -60,7 +60,7 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -71,12 +71,12 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [RestAPI SISTEM PENGADUAN MASYARAKAT](https://github.com/Selotip7/RestAPI_SISTEM-PENGADUAN-MASYARAKAT)
 > Pembuatan RestAPI untul SISTEM PENGADUAN MASYARAKAT
 
-- ✅ CRUD Pengaduan 
+- CRUD Pengaduan 
 - 🛠 `Laravel`
 
 ---
@@ -84,8 +84,8 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ### 🔹 [Java Calories Count](https://github.com/Selotip7/Java_calories_count)
 > Aplikasi penghitung kalori harian
 
-- ✅ Input makanan & kalkulasi kalori
-- ✅ Tracking konsumsi harian
+- Input makanan & kalkulasi kalori
+- Tracking konsumsi harian
 - 🛠 `JavaScript`
 
 ---
@@ -93,8 +93,8 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ### 🔹 [SISTEM KRS SEDERHANA](https://github.com/Selotip7/SISTEM_KRS_SEDERHANA-)
 > Sistem pemilihan KRS sederhana
 
-- ✅ Menangani CRUD KRS
-- ✅ Vanilla PHP tanpa framework
+- Menangani CRUD KRS
+- Vanilla PHP tanpa framework
 - 🛠 `PHP` `HTML` `CSS` `TailWInd`
 
 ---
@@ -102,8 +102,8 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ### 🔹 [Luhn Algorithm](https://github.com/Selotip7/luhn_algorithm)
 > Implementasi algoritma Luhn untuk validasi nomor kartu kredit
 
-- ✅ Validasi digit kartu kredit
-- ✅ Implementasi algoritma klasik dari scratch
+- Validasi digit kartu kredit
+- Implementasi algoritma klasik dari scratch
 - 🛠 `Python`
 
 ---
@@ -111,13 +111,13 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ### 🔹 [Chiper](https://github.com/Selotip7/chiper)
 > Program enkripsi & dekripsi teks menggunakan cipher klasik
 
-- ✅ Caesar / Vigenere cipher
-- ✅ Input teks & kunci yang fleksibel
+- Caesar / Vigenere cipher
+- Input teks & kunci yang fleksibel
 - 🛠 `Python`
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -129,5 +129,5 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 ---
 
 <div align="center">
-  <sub>⚡ Made with passion — Backend is where the magic happens 🖤</sub>
+  <sub>Made with passion — Backend is where the magic happens 🖤</sub>
 </div>
