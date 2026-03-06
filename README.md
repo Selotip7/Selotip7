@@ -66,7 +66,7 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=2D3748&icon_color=4A90D9&text_color=4A5568&bg_color=ffffff&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Selotip7&show_icons=true&theme=default&hide_border=true&title_color=2D3748&icon_color=4A90D9&text_color=4A5568&bg_color=ffffff&count_private=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&title_color=2D3748&text_color=4A5568&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
 
