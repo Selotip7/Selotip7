@@ -73,7 +73,7 @@ I'm a passionate **Backend Developer** who loves crafting robust APIs and design
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selotip7&theme=default&hide_border=true&ring=4A90D9&fire=E05252&currStreakLabel=2D3748&sideLabels=2D3748&dates=718096" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Selotip7&theme=default&hide_border=true&ring=4A90D9&fire=E05252&currStreakLabel=2D3748&sideLabels=2D3748&dates=718096" alt="GitHub Streak"/>
 
 </div>
 
